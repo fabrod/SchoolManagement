@@ -106,3 +106,6 @@ C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.csp
 C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
 C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.dll
 C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.Migrations.InitialCreate.resources
+C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\frodrigue4\source\repos\SchoolManagement\obj\Debug\SchoolManagement.Migrations.AddedBirthdate.resources
