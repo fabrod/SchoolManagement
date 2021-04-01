@@ -10,5 +10,8 @@ namespace SchoolManagement
         {
             ConfigureAuth(app);
         }
+        public void createRolesandUsers()
+        {
+        }    
     }
 }
